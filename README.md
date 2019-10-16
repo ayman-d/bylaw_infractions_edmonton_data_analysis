@@ -16,4 +16,4 @@ Once installed and jupyter is launched, please navigate to the file and run it i
 
 To view the file kindly click on the the jupyter notebook file in the reporsitory, which the file with the .ipynb extension
 
-If github does now render the file internally, please go to https://nbviewer.jupyter.org/ and in the location bar in the main page paste the address for the jupyter notebook: 
+If github does now render the file internally, please go to https://nbviewer.jupyter.org/ and in the location bar in the main page paste the address for the jupyter notebook: https://github.com/aymand1982/bylaw_infractions_edmonton_data_analysis/blob/master/Edmonton_bylaw_infractions.ipynb
