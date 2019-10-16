@@ -1,2 +1,13 @@
 # bylaw_infractions_edmonton_data_analysis
+
 This is a study done on the by-law infractions in Edmonton, Alberta data set
+
+Went through the process of data importing, data cleansing and wrangling, and then visualization and conclusions.
+
+To view the project please either view it locally on github, or download jupyter notebook to view the file on a web page as intended.
+
+<h3>Jupyter Notebook Installation</h3>
+
+kindly follow instructions on this link: https://jupyter.readthedocs.io/en/latest/install.html
+
+Once installed and jupyter is launched, please navigate to the file and run it in notebook to see the full page.
